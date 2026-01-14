@@ -1,0 +1,6 @@
+#Get all Contacts
+GET https://cse-341-mda6.onrender.com/contacts
+
+###
+# Get a single Contact
+GET https://cse-341-mda6.onrender.com/contacts/69681003c32f479fb887a0c6

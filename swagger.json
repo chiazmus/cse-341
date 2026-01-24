@@ -8,8 +8,8 @@
   "host": "https://cse-341-mda6.onrender.com",
   "basePath": "/",
   "schemes": [
-    "https",
-    "http"
+    "https:",
+    "http:"
   ],
   "paths": {
     "/": {
